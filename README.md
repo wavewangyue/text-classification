@@ -1,6 +1,6 @@
 # 新闻上的文本分类：机器学习大乱斗 2017.05.05
 
-完整文档转到知乎专栏： https://zhuanlan.zhihu.com/p/26729228
+查看完整文档： https://zhuanlan.zhihu.com/p/26729228
 
 ### 目标
 
